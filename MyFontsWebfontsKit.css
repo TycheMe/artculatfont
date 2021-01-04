@@ -1,0 +1,161 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3967225, 2020-10-30T14:27:59-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ArticulatCF-Thin by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/thin/
+ * 
+ * Webfont: ArticulatCF-ThinOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/thin-oblique/
+ * 
+ * Webfont: ArticulatCF-ExtraLight by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/extra-light/
+ * 
+ * Webfont: ArticulatCF-ExtraLightOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/extra-light-oblique/
+ * 
+ * Webfont: ArticulatCF-Light by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/light/
+ * 
+ * Webfont: ArticulatCF-LightOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/light-oblique/
+ * 
+ * Webfont: ArticulatCF-Normal by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/normal/
+ * 
+ * Webfont: ArticulatCF-NormalOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/normal-oblique/
+ * 
+ * Webfont: ArticulatCF-Regular by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/regular/
+ * 
+ * Webfont: ArticulatCF-RegularOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/regular-oblique/
+ * 
+ * Webfont: ArticulatCF-Medium by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/medium/
+ * 
+ * Webfont: ArticulatCF-MediumOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/medium-oblique/
+ * 
+ * Webfont: ArticulatCF-DemiBold by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/demi-bold/
+ * 
+ * Webfont: ArticulatCF-DemiBoldOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/demi-bold-oblique/
+ * 
+ * Webfont: ArticulatCF-Bold by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/bold/
+ * 
+ * Webfont: ArticulatCF-BoldOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/bold-oblique/
+ * 
+ * Webfont: ArticulatCF-ExtraBold by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/extra-bold/
+ * 
+ * Webfont: ArticulatCF-ExtraBoldOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/extra-bold-oblique/
+ * 
+ * Webfont: ArticulatCF-Heavy by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/heavy/
+ * 
+ * Webfont: ArticulatCF-HeavyOblique by Connary Fagen
+ * URL: https://www.myfonts.com/fonts/connary-fagen/articulat-cf/heavy-oblique/
+ * 
+ * 
+ * Webfonts copyright: Copyright © 2020 by Connary Fagen. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3c88f9");
+  
+@font-face {
+  font-family: 'ArticulatCF-ExtraLightOblique';
+  src: url('webFonts/ArticulatCF-ExtraLightOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-ExtraLightOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-ExtraLight';
+  src: url('webFonts/ArticulatCF-ExtraLight/font.woff2') format('woff2'), url('webFonts/ArticulatCF-ExtraLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-Light';
+  src: url('webFonts/ArticulatCF-Light/font.woff2') format('woff2'), url('webFonts/ArticulatCF-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-ThinOblique';
+  src: url('webFonts/ArticulatCF-ThinOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-ThinOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-Thin';
+  src: url('webFonts/ArticulatCF-Thin/font.woff2') format('woff2'), url('webFonts/ArticulatCF-Thin/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-Heavy';
+  src: url('webFonts/ArticulatCF-Heavy/font.woff2') format('woff2'), url('webFonts/ArticulatCF-Heavy/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-HeavyOblique';
+  src: url('webFonts/ArticulatCF-HeavyOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-HeavyOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-ExtraBold';
+  src: url('webFonts/ArticulatCF-ExtraBold/font.woff2') format('woff2'), url('webFonts/ArticulatCF-ExtraBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-BoldOblique';
+  src: url('webFonts/ArticulatCF-BoldOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-BoldOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-ExtraBoldOblique';
+  src: url('webFonts/ArticulatCF-ExtraBoldOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-ExtraBoldOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-DemiBoldOblique';
+  src: url('webFonts/ArticulatCF-DemiBoldOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-DemiBoldOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-DemiBold';
+  src: url('webFonts/ArticulatCF-DemiBold/font.woff2') format('woff2'), url('webFonts/ArticulatCF-DemiBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-MediumOblique';
+  src: url('webFonts/ArticulatCF-MediumOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-MediumOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-Bold';
+  src: url('webFonts/ArticulatCF-Bold/font.woff2') format('woff2'), url('webFonts/ArticulatCF-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-Medium';
+  src: url('webFonts/ArticulatCF-Medium/font.woff2') format('woff2'), url('webFonts/ArticulatCF-Medium/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-NormalOblique';
+  src: url('webFonts/ArticulatCF-NormalOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-NormalOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-Regular';
+  src: url('webFonts/ArticulatCF-Regular/font.woff2') format('woff2'), url('webFonts/ArticulatCF-Regular/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-RegularOblique';
+  src: url('webFonts/ArticulatCF-RegularOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-RegularOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-Normal';
+  src: url('webFonts/ArticulatCF-Normal/font.woff2') format('woff2'), url('webFonts/ArticulatCF-Normal/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'ArticulatCF-LightOblique';
+  src: url('webFonts/ArticulatCF-LightOblique/font.woff2') format('woff2'), url('webFonts/ArticulatCF-LightOblique/font.woff') format('woff');
+}
+
